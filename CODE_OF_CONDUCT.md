@@ -12,6 +12,7 @@ anywhere you represent the project.
 To report a concern, use the contact form at **https://stemedplus.org/contact-us/**. Reports are
 read by STEMEd+ Commons staff and handled as confidentially as we can.
 
-**Please note:** STEMEd+ Commons is based at Michigan State University. Under MSU's Relationship
-Violence and Sexual Misconduct (RVSM) policy, MSU staff are required to pass on reports of sexual
-misconduct to the university. We will tell you if your report falls under this requirement.
+**Please note:** STEMEd+ Commons is run by Michigan State University staff, who are required by
+MSU policy to report relationship violence, sexual misconduct, and stalking to MSU's
+[Office for Civil Rights and Title IX Education and Compliance](https://civilrights.msu.edu/policies).
+Reports of that kind will be passed to that office, as MSU policy requires.
